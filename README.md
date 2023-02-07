@@ -5,7 +5,7 @@
 
 I come from Martinique (France)🌴, living in Paris and i really enjoy learning languages and frameworks like JS and React.
 
-<img  style="border-radius:20px; float:right; margin-bottom:1rem;" alt="Coder GIF"  width=300 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/>
+<img align="right"  style="border-radius:20px; float:right; margin-bottom:1rem;" alt="Coder GIF"  width=300 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/>
 
 <h3>🙋‍♂️ About Me</h3>
 
