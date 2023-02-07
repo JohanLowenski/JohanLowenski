@@ -28,7 +28,6 @@ I come from Martinique (France)🌴, living in Paris and i really enjoy learning
 <br/>
 ⚡Languages currently used 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanlowenski&show_icons=true&locale=en&layout=compact&theme=algolia" alt="lowenskijohan" /></p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
 <br/>
@@ -36,7 +35,7 @@ I come from Martinique (France)🌴, living in Paris and i really enjoy learning
 <br/>
 <br/>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanlowenski&show_icons=true&locale=en&layout=compact" alt="johanlowenski" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanlowenski&" alt="johanlowenski" /></p>
 ## Connect with me:
 <p align="left">
