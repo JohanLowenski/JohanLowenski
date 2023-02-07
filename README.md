@@ -8,7 +8,7 @@ I come from Martinique (France)🌴, living in Paris and i really enjoy learning
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif"/>
 <h3>🙋‍♂️ About Me</h3>
 
-- 🔭 I’m currently working on [My Portfolio](https://lowenskijohan.github.io/Les-Petits-Plats/)
+- 🔭 I’m currently working on [My Portfolio](https://Lowenskijohan.github.io/Les-Petits-Plats/)
 
 - 🌱 I’m currently learning **React Js**
 >
@@ -23,7 +23,7 @@ I come from Martinique (France)🌴, living in Paris and i really enjoy learning
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lowenskijohan&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johanlowenski&theme=dark&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <br/>
 <br/>
