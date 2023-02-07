@@ -24,6 +24,7 @@ I come from Martinique (France)🌴, living in Paris and i really enjoy learning
 ## 📊 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lowenskijohan&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <br/>
 <br/>
 ⚡Languages currently used 
