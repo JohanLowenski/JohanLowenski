@@ -29,7 +29,7 @@ I come from Martinique (France)🌴, living in Paris and i really enjoy learning
 <br/>
 
 ## ⚡Languages currently used 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanlowenski&show_icons=true&locale=en&layout=compact&theme=algolia" alt="lowenskijohan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanlowenski&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="lowenskijohan" /></p>
 <br/>
 <br/>
 <br/>
