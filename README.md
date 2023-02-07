@@ -36,7 +36,7 @@ I come from Martinique (France)🌴, living in Paris and i really enjoy learning
 <br/>
 <br/>
 <br/>
-<br/>
+
 # Contributions
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johanlowenski&" alt="johanlowenski" /></p>
 
