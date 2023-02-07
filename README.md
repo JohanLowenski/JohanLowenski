@@ -47,4 +47,4 @@ I come from Martinique (France)🌴, living in Paris and i really enjoy learning
 <a href="https://twitter.com/lowenski922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lowenski922" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/johan-lowenski-5a326315b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/johan-lowenski-5a326315b/" height="30" width="40" /></a>
 </p>
-<img style="border-radius:20px; float:right; margin-bottom:1rem;" alt="Coder GIF"  width=300 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" style="border-radius:20px; float:right; margin-bottom:1rem;" alt="Coder GIF"  width=300 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
